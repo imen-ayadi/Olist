@@ -12,11 +12,11 @@ Machine Learning: Predict customer satisfaction using algorithms such as KNN, De
 # Methodology:
 Data Preprocessing: Cleaning and feature engineering were performed on the sales dataset. Missing values were handled, and categorical variables were encoded.
 
-UML Fact table :
+# UML Fact table :
 ![Screenshot_111](https://github.com/user-attachments/assets/9e137a25-9f88-42c2-ba6b-831c7fc1807d)
 
 
-Talend Transformations :
+# Talend: For ETL and data transformation.
 
 ![Screenshot_112](https://github.com/user-attachments/assets/b9e32403-87d3-4658-ba53-5f3051ea20df)
 ![Screenshot_113](https://github.com/user-attachments/assets/22919bb9-82a8-4824-bad7-a9e58f6d63e0)
@@ -24,15 +24,16 @@ Talend Transformations :
 
 ![Screenshot_115](https://github.com/user-attachments/assets/b3ee71a0-fe54-494b-b252-89927def58c8)
 
-Machine Learning Models: Multiple models were built and evaluated using confusion matrix and classification reports, with XGBoost delivering the best results.
-Visualization: The Power BI dashboard provides a comprehensive view of product performance, top-selling products, and customer satisfaction metrics.
-Key Technologies:
-Power BI: For dashboard creation and data visualization.
+# Key Technologies:
+## Visualization: 
+The Power BI dashboard provides a comprehensive view of product performance, top-selling products, and customer satisfaction metrics.
+# Power BI: For dashboard creation and data visualization.
 ![Screenshot_116](https://github.com/user-attachments/assets/4d6f5c3e-a300-4548-b66a-60793dc0c0ab)
 ![Screenshot_117](https://github.com/user-attachments/assets/b889673c-d022-4783-9406-4a5b2221e38b)
 ![Screenshot_118](https://github.com/user-attachments/assets/57394840-61fe-4522-a8c2-556f425c6f4c)
 
-Talend: For ETL and data transformation.
+Machine Learning Models: Multiple models were built and evaluated using confusion matrix and classification reports, with XGBoost delivering the best results.
+
 # Machine Learning Models: XGBoost, SVM, Decision Tree, KNN.
 # Results:
 XGBoost achieved the highest performance in terms of accuracy and precision, making it the best model for predicting customer satisfaction.
@@ -43,6 +44,5 @@ XGBoost achieved the highest performance in terms of accuracy and precision, mak
 ![Screenshot_122](https://github.com/user-attachments/assets/b8c5769f-e2f8-4228-8479-dce9f280d181)
 
 # Conclusion:
-
 This project provides valuable insights into Olist's sales performance and customer satisfaction, enabling data-driven decisions for marketing and sales strategy.
 
