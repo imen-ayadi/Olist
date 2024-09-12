@@ -28,19 +28,21 @@ Machine Learning Models: Multiple models were built and evaluated using confusio
 Visualization: The Power BI dashboard provides a comprehensive view of product performance, top-selling products, and customer satisfaction metrics.
 Key Technologies:
 Power BI: For dashboard creation and data visualization.
-![Screenshot_116](https://github.com/user-attachments/assets/4d6f5c3e-a300-4548-b66a-60793dc0c0ab)![Screenshot_121](https://github.com/user-attachments/assets/f2202ff9-8746-4272-b16e-536c0241079b)
-
+![Screenshot_116](https://github.com/user-attachments/assets/4d6f5c3e-a300-4548-b66a-60793dc0c0ab)
 ![Screenshot_117](https://github.com/user-attachments/assets/b889673c-d022-4783-9406-4a5b2221e38b)
 ![Screenshot_118](https://github.com/user-attachments/assets/57394840-61fe-4522-a8c2-556f425c6f4c)
 
 Talend: For ETL and data transformation.
-Machine Learning Models: XGBoost, SVM, Decision Tree, KNN.
-Results:
+# Machine Learning Models: XGBoost, SVM, Decision Tree, KNN.
+# Results:
 XGBoost achieved the highest performance in terms of accuracy and precision, making it the best model for predicting customer satisfaction.
-![Screenshot_122](https://github.com/user-attachments/assets/b8c5769f-e2f8-4228-8479-dce9f280d181)
-![Screenshot_119](https://github.com/user-attachments/assets/9125d619-cb27-4b81-a593-b649139f5720)
 
-Conclusion:![Screenshot_120](https://github.com/user-attachments/assets/6403ff90-d432-4432-a3cb-4e4659494479)
+![Screenshot_119](https://github.com/user-attachments/assets/9125d619-cb27-4b81-a593-b649139f5720)
+![Screenshot_120](https://github.com/user-attachments/assets/6403ff90-d432-4432-a3cb-4e4659494479)
+![Screenshot_121](https://github.com/user-attachments/assets/f2202ff9-8746-4272-b16e-536c0241079b)
+![Screenshot_122](https://github.com/user-attachments/assets/b8c5769f-e2f8-4228-8479-dce9f280d181)
+
+# Conclusion:
 
 This project provides valuable insights into Olist's sales performance and customer satisfaction, enabling data-driven decisions for marketing and sales strategy.
 
