@@ -11,10 +11,17 @@ Dashboard Development: Visualize sales performance using Power BI.
 Machine Learning: Predict customer satisfaction using algorithms such as KNN, Decision Tree, SVM, and XGBoost.
 # Methodology:
 Data Preprocessing: Cleaning and feature engineering were performed on the sales dataset. Missing values were handled, and categorical variables were encoded.
-![Screenshot_114](https://github.com/user-attachments/assets/5a7972f8-7f4f-4eaa-8290-74dfbb9bdd79)
+
+UML Fact table :
 ![Screenshot_111](https://github.com/user-attachments/assets/9e137a25-9f88-42c2-ba6b-831c7fc1807d)
+
+
+Talend Transformations :
+
 ![Screenshot_112](https://github.com/user-attachments/assets/b9e32403-87d3-4658-ba53-5f3051ea20df)
 ![Screenshot_113](https://github.com/user-attachments/assets/22919bb9-82a8-4824-bad7-a9e58f6d63e0)
+![Screenshot_114](https://github.com/user-attachments/assets/5a7972f8-7f4f-4eaa-8290-74dfbb9bdd79)
+
 ![Screenshot_115](https://github.com/user-attachments/assets/b3ee71a0-fe54-494b-b252-89927def58c8)
 
 Machine Learning Models: Multiple models were built and evaluated using confusion matrix and classification reports, with XGBoost delivering the best results.
